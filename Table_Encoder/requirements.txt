@@ -1,0 +1,10 @@
+torch
+numpy
+einops
+pandas
+sentence_transformers
+transformers
+tqdm
+wandb
+python-dotenv
+jupyter
